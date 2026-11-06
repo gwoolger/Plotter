@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 15.39h | 4 |
+| Week 5 | Tier 3 | 16.39h | 4 |
 
 ## Contents
 
@@ -162,7 +162,7 @@ Spent a lot of time researching and adding things up for the BOM, and came to th
 
 ### 2026-11-06: # Finally started CAD
 
-**4.67h**
+**5.67h**
 
 # Finally started CAD
 
@@ -219,3 +219,15 @@ Probably spent a bit too long just researching motion systems and stuff, but I r
 ## tl;dr
 
 Finally started the CAD design, after too much time spent on the BOM.
+
+## Extras
+
+Also just had to set it up for movement - eg just more joints for easier visualisation:
+
+![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/384e9309be24ebcf4ba4c663c15c32f36e8395184c490d7aef7f3b9b529f13eb.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/ee88675cfb5948bcaf7da3797c10f0cac2f0ad85eabbd20c3a5461976fab7eaf.png)
+
+I mean I think it will be possible in the time I have, especially as I plan on making some parts usable for both axes, but will have to see.
+
+Just hope I dont have to spend too much longer looking at the annoying sale prices versus the price ill actually pay. And shipping is a right pain as well
