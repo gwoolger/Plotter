@@ -170,6 +170,8 @@ Well I say that, but also did a bit too much more BOM work, as I just felt every
 
 (As in easily half of this time was just checking back on shops and thinking that parts should be cheaper. Like the wheels. Id model them if I had more time. Like make them custom. It cant be too hard.)
 
+But am also pretty glad I finally stopped procrastinating and have finally started designing. I still have no clue where to start, but I've at least laid things out and researched a fair bit.
+
 ![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/d2b7878afa796f22997c231aed0a61ada99c1f1b120cdcb27c2dc66bc0e2fd84.png)
 
 As shown in my lovely drawing, I've decided to sacrifice some rigidity, and go with a cantilevered design. This however does mean I need les POM wheels, less steppers, and less 2020 extrusion - though its somehow still cheapest to buy the same amount of steppers and metal frame thing??
