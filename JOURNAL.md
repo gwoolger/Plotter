@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 11.69h | 4 |
+| Week 5 | Tier 3 | 14.36h | 4 |
 
 ## Contents
 
@@ -162,7 +162,7 @@ Spent a lot of time researching and adding things up for the BOM, and came to th
 
 ### 2026-11-06: # Finally started CAD
 
-**2h**
+**4.67h**
 
 # Finally started CAD
 
@@ -176,6 +176,46 @@ So that means I'll be spending even more time looking at BOM stuff in the future
 
 ## Actually started CAD
 
+Just some of what I did:
+
 My 2020 extrusion profile - dimensionally accurate where its important lol:
 
 ![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/51762ba45938b81f24fc575af3f56220db9588acfd3150524bcac6410df92eb0.png)
+
+Annoyingly couldn't find and nice 3d models of 2020 extrusion that I liked, so I decided to model it from scratch. With some diagrams that were missing information - well it was just the Amazon page one, I do know that there are better ones online lol.
+
+But anyway, I'd done that, then started modelling. And as I'm a bit too good, I'm just overcomplicating things. So insead of just trying a design, I'm making everything parametric, which starts with just laying things out. So I use joints for that.
+
+And the pain of trying to attach a joint to like a multilayered surface like the bottom of the 2020 extrusion, is a proper pain.
+
+So I did just kinda get rid of it:
+
+![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/454cfdeb8108a8adb0cdc1cb37491e880ee05f29eee8880b4db79cbe39a5f152.png)
+
+Might end up doing that for the rest as well, depending on how I model things.
+
+And it's only realllly cosmetic, so doesnt make too much of a difference...?
+
+I'm betting that it will become a problem for some reason later on.
+
+Oh, and I also found a 3D model of the stepper motor I am getting online - just simplifies things a bit for me.
+
+## Current Plan
+
+So as this will be like ideally a fairly simple plotter thing, I plan to now make both the y and x axes the same. Like I'd be able to use the same design, 3D models and mounting hardware between them.
+
+Theoretically I think it should be possible, as they are both essentially just a piece of extrusion with a stepper at the end. Although not quite sure how I will mount it yet.
+
+![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/62c71e3a43b7dd98af12397dcb6fdd1de6a5f45a24912c363ba4bd6f1b231eec.png)
+
+Don't know if I'll get more done today, but I really do need to try and hurry up to finish it, as I've barely started  the actual models.
+
+Also one thing that looks interesting, is that I might be able to run the stepper motor belts in the actual 2020 extrusion's grooves, and it will all work.
+
+Probably spent a bit too long just researching motion systems and stuff, but I reckon I will just go standard Cartesian over like Core XY - like the kinematics dont seem too difficult, but I just dont think I have the time to be certain a Core XY design would work.
+
+![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/f13b737564007fe473bfdd1e7724e700b306cf4a4ce67c0eca17840073a5b86d.png)
+
+## tl;dr
+
+Finally started the CAD design, after too much time spent on the BOM.
