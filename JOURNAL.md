@@ -442,11 +442,22 @@ Until I remembered I need to pick up a sg90.
 
 And I couldn't find any decently priced 1 pack ones, so I've ended up with a 2 pack for $3. Putting me under the $100 with the $3 margin.
 
+Also realised I forgot to add a power supply in, but as thats out of budget, I'll just repurpose an old laptop charger. ie probably just lop off the end and wire it up.
+
 ## misc
 
 Also spent too much time writing up the readme, and this journal. I'm including that time, as quite frankly they both took too long. (well I guess not compared to the BOM)
 
 also sorting out the github was a pain, as my vscode wasnt happy cloning the repo and merging or something. Probably like merge conflicts, as I was writing this at the same time.
+
+Also only just found out that you can have markdown tables like shrink, using like html stuff, which is pretty cool:
+
+```
+
+test
+Write whatever you want to shrink here
+
+```
 
 ## ~conclusion
 
