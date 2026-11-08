@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 20.51h | 5 |
+| Week 5 | Tier 3 | 18.51h | 5 |
 
 ## Contents
 
@@ -239,7 +239,7 @@ Just hope I dont have to spend too much longer looking at the annoying sale pric
 
 ### 2026-11-08: # Literally way too much BOM work
 
-**5.12h**
+**3.12h**
 
 # Literally way too much BOM work
 
@@ -294,3 +294,7 @@ So I can finally get onto modelling.
 ## tl;dr
 
 Somehow spent even more time on the BOM.
+
+## Next
+
+Did this all yesterday, so I can now start the CAD today.
