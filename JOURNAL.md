@@ -455,6 +455,7 @@ also sorting out the github was a pain, as my vscode wasnt happy cloning the rep
 Also only just found out that you can have markdown tables like shrink, using like html stuff, which is pretty cool:
 
 ```
+its just the standard html things <> with details and summary. I put them here before, but half life or somethign just seems to overwrite them
 
 test
 Write whatever you want to shrink here
