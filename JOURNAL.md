@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 21.61h | 6 |
+| Week 5 | Tier 3 | 20.61h | 6 |
 
 ## Contents
 
@@ -56,7 +56,7 @@ I really hope I'll actually be able to make this and finish it, as it might be a
 
 ### 2026-11-04: # Stupid amount more of BOM work
 
-**2.3h**
+**1.3h**
 
 # Stupid amount more of BOM work
 
