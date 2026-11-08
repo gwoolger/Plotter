@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/jc0ywep59sqc85l6xs3m5hxa)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Draw some lines ideally- Basically a gantry to hold a pen and draw things.
+> Draw some lines ideally- Basically a gantry to hold a pen and draw things. Build as a challenge to make the best plotter within budget
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
