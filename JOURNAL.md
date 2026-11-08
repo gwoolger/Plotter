@@ -243,6 +243,8 @@ Just hope I dont have to spend too much longer looking at the annoying sale pric
 
 # Literally way too much BOM work
 
+(Did a bunch of this yesterday, but just wasnt particularly in the mood to write it up lol)
+
 Still working on the BOM somehow. Worst part is I actually wanted to start the CAD now, having gotten over my procrastination.
 
 So I've just gone through and put all the mounting hardware I will need into the BOM, and I'm at $105. which is not good. As I still need to put the cost of buying the 3D prints in.
