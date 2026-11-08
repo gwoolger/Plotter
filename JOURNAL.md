@@ -442,6 +442,8 @@ Until I remembered I need to pick up a sg90.
 
 And I couldn't find any decently priced 1 pack ones, so I've ended up with a 2 pack for $3. Putting me under the $100 with the $3 margin.
 
+Well actually, the BOM total is now $102.84. fun stuff.
+
 Also realised I forgot to add a power supply in, but as thats out of budget, I'll just repurpose an old laptop charger. ie probably just lop off the end and wire it up.
 
 ## misc
