@@ -6,7 +6,7 @@ It is designed to plot on an A4 sized area, and pack as many features in, that a
 
 ![fusion 360 Plotter img](images/plotter.png)
 
-It works by moving a pen up and down, and moving the pen around in space. More detail can be found by reading through JOURNAL.md (My journal of my actions).
+It works by moving a pen up and down, and moving the pen around in space. More detail can be found by reading through JOURNAL.md.
 
 ## CAD
 
@@ -30,9 +30,33 @@ Initially went with an ESP32 CNC shield, but have since switched to a Arduino ba
 
 Am stuck with getting 3 Nema 17 Steppers, as it is somehow cheaper buying a pack of 3, than 2 one packs. Also helps the one I've found is shipping within the UK, so no shipping upcharge.
 
+> **NOT INCLUDED IN BOM:**
+>
+> - M3 screws, as I already have them
+> - 12/24v power supply - I plan to nick an old laptop one (also did kinda forget)
+
+
 <details>
-<summary>BOM and parts list</summary>
+<summary>BOM and parts list. Can also be seen in BOM.csv</summary>
 
-
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+|---|---:|---|---:|---:|---|
+| 4pcs 2020 Extrusion 400mm | 1 | Amazon | $17.55 | $17.55 | [Amazon](https://www.amazon.co.uk/Aluminium-Extrusion-European-Standard-Engraving/dp/B0C59LN8KR/ref=sr_1_5?currency=USD) |
+| GT2 Belt set | 1 | Aliexpress | $9.37 | $9.37 | [Aliexpress](https://www.aliexpress.com/item/1005009476579653.html?spm=a2g0o.cart.0.0.635538daxHLZ85&mp=1&pdp_npi=6%40dis%21USD%21USD+9.37%21USD+1.35%21%21USD+1.35%21%21%21%400b88ac1917938995266717746e0c95%2112000049220688668%21ct%21GB%218513385029%21%211%210%21) |
+| 10pcs POM wheels | 1 | Aliexpress | $6.53 | $6.53 | [Aliexpress](https://www.aliexpress.com/item/1005004275676552.html?spm=a2g0o.cart.0.0.172138daWkeXVm&mp=1&pdp_npi=6%40dis%21USD%21USD+6.53%21USD+5.81%21%21USD+5.81%21%21%21%400b15834e17939890792315201e1041%2112000028598985637%21ct%21GB%218513385029%21%211%210%21) |
+| Arduino CNC Shield + Drivers inc. | 1 | Aliexpress | $10.17 | $10.17 | [Aliexpress](https://www.aliexpress.com/item/1005006478108991.html?spm=a2g0o.productlist.main.1.59ee5d3bEz9E0n&algo_pvid=7a7a1366-363a-4cf6-ba58-b29684a74fac&algo_exp_id=7a7a1366-363a-4cf6-ba58-b29684a74fac-0&pdp_ext_f=%7B%22order%22%3A%222278%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.28%211.12%21%21%218.50%217.41%21%400b0fe0e117941374088901971e0ec6%2112000037347058706%21sea%21GB%218513385029%21ABX%211%210%21n_tag%3A-29910%3Bd%3A98ea16a6%3Bm03_new_user%3A-29895%3BpisId%3A5000000220915053&curPageLogUid=Ba1vdNWZCPs3&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006478108991%7C_p_origin_prod%3A) |
+| 3pcs Nema 17 stepper 38mm | 1 | Ebay | $25.00 | $25.00 | [Ebay](https://www.ebay.co.uk/itm/204595546364?_skw=nema+17+stepper&itmmeta=01M6PDM4A4ZT8Z36P70ABV2DAX&hash=item2fa2d848fc:g:shQAAeSwJqBorUsZ&itmprp=enc%3AAQALAAAA8CHNgUiiE%2FjQhlDTaMiAde%2BHXGSMifZ8DS%2BsaPi2ceNaREUXK%2FlrXscmIAw5NkkFqG0MoQ%2B%2Bmh%2B0vyrkwlnOwo3Ck24lqp5BJt6M43F4Aq68jKI9xf1%2BCFiPHltsOJ9X3U%2BFIdvyKFcqjKg3tLB1A1maLNqPIcKMT6O2OQXWKNYditkNOVTihf11PpKQ4rV3npACu%2ByqG4edAzBnITVyMnI0BanIRoyYO97XsI0JHnTbo5uKINMcyRGUz7H9Y8y93CQIMsFIVPl63%2B0k8DF3A%2Fds8kkkhpp%2BnHp%2BckKTb1MxUhlTGciMjJc4vVEPqMt67g%3D%3D%7Ctkp%3ABk9SR87F0M21aA) |
+| 55pcs 2020 M5 T-nut | 1 | Aliexpress | $4.04 | $4.04 | [Aliexpress](https://www.aliexpress.com/item/1005009296033904.html?spm=a2g0o.productlist.main.12.480f3209F0bhiq&algo_pvid=9e6318f2-8a12-46d6-b266-b023ff5a8e88&algo_exp_id=9e6318f2-8a12-46d6-b266-b023ff5a8e88-11&pdp_ext_f=%7B%22order%22%3A%22754%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.60%211.35%21%21%2123.86%218.94%21%4021038b2f17941333144554992e0da1%2112000048651247193%21sea%21GB%218513385029%21ABX%211%210%21n_tag%3A-29910%3Bd%3A98ea16a6%3Bm03_new_user%3A-29895%3BpisId%3A5000000218634826&curPageLogUid=IaaEdybs8klJ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009296033904%7C_p_origin_prod%3A) |
+| 10pcs M5 10mm | 2 | Aliexpress | $1.69 | $3.38 | [Aliexpress](https://www.aliexpress.com/item/1005005070119421.html?spm=a2g0o.cart.0.0.c2bb38dakvknxn&mp=1&pdp_npi=6%40dis%21USD%21USD+1.69%21USD+1.51%21%21USD+1.51%21%21%21%402103842a17941343806665073e0e7b%2112000031519353322%21ct%21GB%218513385029%21%212%210%21) |
+| 10pcs M5 30mm | 1 | Aliexpress | $2.90 | $2.90 | [Aliexpress](https://www.aliexpress.com/item/1005005070119421.html?spm=a2g0o.cart.0.0.c2bb38daqWS5rt&mp=1&pdp_npi=6%40dis%21USD%21USD%202.90%21USD%202.60%21%21USD%202.60%21%21%21%402103842a17941346513384880e0e7b%2112000031519353328%21ct%21GB%218513385029%21%211%210%21) |
+| 25pcs M5 Nyloc Nuts | 1 | Aliexpress | $1.78 | $1.78 | [Aliexpress](https://www.aliexpress.com/item/32798773566.html?spm=a2g0o.cart.0.0.c2bb38da7UKfkr&mp=1&pdp_npi=6%40dis%21USD%21USD%201.78%21USD%201.61%21%21USD%201.61%21%21%21%402103842a17941347069946348e0e7b%2112000015834876028%21ct%21GB%218513385029%21%211%210%21) |
+| 10pcs M5 6mm eccentric spacer | 1 | Aliexpress | $2.32 | $2.32 | [Aliexpress](https://www.aliexpress.com/item/1005001835525483.html?spm=a2g0o.detail.0.0.6a73O8MkO8Mk5i&mp=1&pdp_npi=6%40dis%21USD%21USD+2.32%21USD+2.18%21%21USD+2.18%21%21%21%402103842a17941351941714792e0e7b%2112000017797012062%21ct%21GB%218513385029%21%211%210%21) |
+| 10pcs M5 Spacer 5mm | 1 | Aliexpress | $1.63 | $1.63 | [Aliexpress](https://www.aliexpress.com/item/1005006915134966.html?spm=a2g0o.detail.0.0.d1b44pSd4pSdeH&mp=1&pdp_npi=6%40dis%21USD%21USD+1.63%21USD+1.54%21%21USD+1.54%21%21%21%40210382de17941357735601721e0e37%2112000038714835285%21ct%21GB%218513385029%21%211%210%21) |
+| 100pcs M5 Shim 1mm | 1 | Aliexpress | $2.99 | $2.99 | [Aliexpress](https://www.aliexpress.com/item/1005001922268995.html?spm=a2g0o.detail.0.0.5eb3MrPPMrPPCk&mp=1&pdp_npi=6%40dis%21USD%21USD+2.99%21USD+2.66%21%21USD+2.66%21%21%21%40210382de17941359875087886e0e37%2112000030477286332%21ct%21GB%218513385029%21%211%210%21) |
+| 10pcs Corner Bracket | 1 | Aliexpress | $2.99 | $2.99 | [Aliexpress](https://www.aliexpress.com/item/33031334574.html?spm=a2g0o.productlist.main.20.48405f14BDDlB3&algo_pvid=6501d40a-4bf4-4447-ae47-07eb390f3f2b&aem_p4p_detail=2026110808044212323972525599060006480771&algo_exp_id=6501d40a-4bf4-4447-ae47-07eb390f3f2b-19&pdp_ext_f=%7B%22order%22%3A%221885%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.99%211.35%21%21%2119.85%218.97%21%400b88abba17941538828475115e0dd0%2167332248615%21sea%21GB%218513385029%21ABX%211%210%21n_tag%3A-29910%3Bd%3A98ea16a6%3Bm03_new_user%3A-29895%3BpisId%3A5000000218634826&curPageLogUid=lKtq5tcRWJY3&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A33031334574%7C_p_origin_prod%3A&search_p4p_id=2026110808044212323972525599060006480771_6) |
+| 3D Prints | 1 | JLC3DP | $9.19 | $9.19 | [JLC3DP](https://jlc3dp.com) |
+| SG90 Servo | 1 | Aliexpress | $3.00 | $3.00 | [Aliexpress](https://www.aliexpress.com/item/1005006572297006.html?spm=a2g0o.detail.0.0.483et2Xct2Xcct&mp=1&pdp_npi=6%40dis%21USD%21USD+3.00%21USD+2.92%21%21USD+2.92%21%21%21%400b15831117941600707112537e0e3d%2112000037705759120%21ct%21GB%218513385029%21%211%210%21) |
+| Estimated total shipping | 1 | - | - | $0.00 | - |
+| **GRAND TOTAL** | | | | **$102.83** | |
 
 </details>
