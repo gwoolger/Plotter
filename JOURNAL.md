@@ -167,9 +167,7 @@ Spent a lot of time researching and adding things up for the BOM, and came to th
 
 # Finally started CAD
 
-Well I say that, but also did a bit too much more BOM work, as I just felt everything should be cheaper.
-
-(As in easily half of this time was just checking back on shops and thinking that parts should be cheaper. Like the wheels. Id model them if I had more time. Like make them custom. It cant be too hard.)
+Well I say that, but also did some more BOM work, as I just felt everything should be cheaper.
 
 But am also pretty glad I finally stopped procrastinating and have finally started designing. I still have no clue where to start, but I've at least laid things out and researched a fair bit.
 
