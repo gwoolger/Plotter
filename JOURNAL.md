@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 21.39h | 5 |
+| Week 5 | Tier 3 | 21.51h | 5 |
 
 ## Contents
 
@@ -239,7 +239,7 @@ Just hope I dont have to spend too much longer looking at the annoying sale pric
 
 ### 2026-11-08: # Literally way too much BOM work
 
-**5h**
+**5.12h**
 
 # Literally way too much BOM work
 
@@ -265,11 +265,11 @@ As I'm going to have to cut down on a bunch of costs somewhere. (Luckily I alrea
 
 (About the last 2 hours of work, once I realised there was no chance of it working).
 
-So I've removed the M5 10mm screws - Ill just have to design for longer or shorter ones.
+So I've removed 2 packs of the M5 8mm screws - Ill just have to design for longer or shorter ones.
 
 ![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/b46cdceb046f361958fe2dbb456c2d54697765261a34af85fe9f003f1f0dd6c6.png)
 
-So that's saved me $3.84. And 'm dropping down the part counts of some other things:
+So that's saved me $3.68. And 'm dropping down the part counts of some other things:
 
 Well aside from like the Shims - getting a 100 pack, as that's cheaper than a 20 pack. Just as they're like tiny.
 
@@ -278,3 +278,19 @@ Well aside from like the Shims - getting a 100 pack, as that's cheaper than a 20
 Also spent too long looking around, and found these T-nuts which are a really good price - $4 for 55pcs. Most other things were like $3 for 20pcs which I wasnt sure would be enough. The added upside of these is I can always use them as a replacement for M5 nuts if I need as well.
 
 ![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/9527b5384be9d9e7ffb256e6207e2d12feaa701652b126c9d7379e6cb8248364.png)
+
+## Changed the controller
+
+Had to go from the ESP32 CNC shield for $22 down to an Arduino one for $10. A bit annoying, as I dislike Arduinos. But I guess if there is an Aliexpress sale on, the ESP32 one still  could be possible.
+
+So with dripping some things down, my current pricing is:
+
+![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/68d9b3ff5194b001858f3ec29e967ef0964eba05ef263ce8bb4978b3f876bc74.png)
+
+A whole $88. So that does give me enough money for the 3D prints now.
+
+So I can finally get onto modelling.
+
+## tl;dr
+
+Somehow spent even more time on the BOM.
