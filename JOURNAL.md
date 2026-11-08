@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 17.11h | 5 |
+| Week 5 | Tier 3 | 15.11h | 5 |
 
 ## Contents
 
@@ -163,7 +163,7 @@ Spent a lot of time researching and adding things up for the BOM, and came to th
 
 ### 2026-11-06: # Finally started CAD
 
-**5.67h**
+**3.67h**
 
 # Finally started CAD
 
