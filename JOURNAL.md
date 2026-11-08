@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 18.51h | 5 |
+| Week 5 | Tier 3 | 17.11h | 5 |
 
 ## Contents
 
@@ -87,7 +87,7 @@ $15 is alright, but a whole $33? quite literally a third of the budget if I go t
 
 ### 2026-11-05: # Yet more research
 
-**5h**
+**3.6h**
 
 # Yet more research
 
