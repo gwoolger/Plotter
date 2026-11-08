@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 27.61h | 7 |
+| Week 5 | Tier 3 | 27.71h | 7 |
 
 ## Contents
 
@@ -367,7 +367,7 @@ Did quite a lot of the CAD, mainly the mounting parts for everything.
 
 ### 2026-11-08: # FINISHED CAD
 
-**7h**
+**7.1h**
 
 # FINISHED CAD
 (also finished the project)
