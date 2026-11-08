@@ -178,6 +178,10 @@ As shown in my lovely drawing, I've decided to sacrifice some rigidity, and go w
 
 So that means I'll be spending even more time looking at BOM stuff in the future to get things cheaper. But currently I'm at $80, so not too worried, as the rest should mabye fit in the $20.
 
+I know I've probably spent rather long on the BOM, but a plotter for under $100. Is actually pretty insane in my opinion. Thats only £75. Like literally insane. Cheaper than a HP printer somehow.
+
+Well I just hope this optimisation is worth it.
+
 ## Actually started CAD
 
 Just some of what I did:
