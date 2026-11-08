@@ -8,6 +8,8 @@ It is designed to plot on an A4 sized area, and pack as many features in, that a
 
 It works by moving a pen up and down, and moving the pen around in space. More detail can be found by reading through JOURNAL.md.
 
+It will be run via an Arduino flashed with GRBL.
+
 ## CAD
 
 ![3D printed parts](images/3d_printed_parts.png)
