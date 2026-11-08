@@ -169,7 +169,7 @@ Spent a lot of time researching and adding things up for the BOM, and came to th
 
 Well I say that, but also did some more BOM work, as I just felt everything should be cheaper.
 
-But am also pretty glad I finally stopped procrastinating and have finally started designing. I still have no clue where to start, but I've at least laid things out and researched a fair bit.
+But am also pretty glad I finally have started designing. I still have no clue where to start, but I've at least laid things out and researched a fair bit.
 
 ![image](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/d2b7878afa796f22997c231aed0a61ada99c1f1b120cdcb27c2dc66bc0e2fd84.png)
 
